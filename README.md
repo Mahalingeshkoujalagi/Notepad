@@ -1,6 +1,6 @@
 # Notepad
 
-##Notepad is a basic text editor that is included with the Microsoft Windows operating system. It is used for creating and editing simple text files, such as plain text files, HTML files, and basic scripts.
+##Notepad is a basic text editor that is included with the Microsoft Windows operating system. It is used for creating and editing simple text files, such as plain text files, HTML files, and basic scripts.##
 **The File menu is a standard menu found in most software applications that provides options for managing and manipulating files. Some common options that you might find in the File menu include:
 
 __New: Creates a new document, file or project
